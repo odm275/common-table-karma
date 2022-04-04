@@ -7,7 +7,7 @@ const app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
-app.get('/', (req, res) => {
+app.post('/', (req, res) => {
     console.log('This endpoint was hit');
     res.send('Hit that');
 });
