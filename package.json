@@ -1,7 +1,7 @@
 {
     "name": "express-starter",
     "version": "1.0.0",
-    "description": "",
+    "description": "Start any project with this",
     "main": "index.js",
     "scripts": {
         "start": "nodemon src/index.ts",
