@@ -1,7 +1,7 @@
 {
-    "name": "express-starter",
+    "name": "common-table-karma",
     "version": "1.0.0",
-    "description": "Start any project with this",
+    "description": "App that helps create karma",
     "main": "index.js",
     "scripts": {
         "start": "nodemon src/index.ts",
